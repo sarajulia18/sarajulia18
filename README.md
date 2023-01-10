@@ -1,8 +1,4 @@
-<h1>Hi!</h1>
-<h2>I’m @sarajulia18</h2>
-  <hr>
-<p>I’m interested in traveling, fitness, and making websites.<br>I’m currently learning HTML and CSS.<br> I’m looking to collaborate on designing and managing sites.<br>
-  Let's link up! Contact me at sjdutu@gmail.com</p>
+
 
 
 
